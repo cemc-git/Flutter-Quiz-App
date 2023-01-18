@@ -1,6 +1,7 @@
 # first_app
 
-A new Flutter project.
+A simple quiz app developed with the only and single purpose to practice flutter.
+
 
 ## Getting Started
 
